@@ -1,1 +1,1 @@
-# ThrowAwayPaper
+# CP-2
